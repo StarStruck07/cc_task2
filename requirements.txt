@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain_core
+langchain_ollama
+langchain-tavily
+langchain-huggingface
+getpass
+os
+torch
+accelerate
+sentence-transformers
